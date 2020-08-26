@@ -93,6 +93,7 @@ resource "azurerm_virtual_machine" "catapp" {
 
   network_interface_ids         = [azurerm_network_interface.catapp-nic.id]
   delete_os_disk_on_termination = "true"
+  
   tags = {
     Billable = "true"
     Department = "devops"
