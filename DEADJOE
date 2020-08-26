@@ -1,0 +1,97 @@
+
+*** These modified files were found in JOE when it aborted on Wed Aug 26 17:59:55 2020
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+/root/hashicat-azure/.git/COMMIT_EDITMSG
+
+*** File '/root/hashicat-azure/.git/COMMIT_EDITMSG'
+Merge branch 'master' of https://github.com/rwowens/hashicat-azure
+
+# Conflicts:
+#	main.tf
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	modified:   files/deploy_app.sh
+#	modified:   main.tf
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** These modified files were found in JOE when it aborted on Wed Aug 26 18:04:40 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/root/hashicat-azure/.git/COMMIT_EDITMSG
+
+*** File '/root/hashicat-azure/.git/COMMIT_EDITMSG'
+Adding vnet
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	new file:   vnet.tf
+#
+# Untracked files:
+#	DEADJOE
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** These modified files were found in JOE when it aborted on Wed Aug 26 18:05:49 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/root/hashicat-azure/.git/COMMIT_EDITMSG
+
+*** File '/root/hashicat-azure/.git/COMMIT_EDITMSG'
+Adding vnet
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	new file:   vnet.tf
+#
+# Untracked files:
+#	DEADJOE
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** These modified files were found in JOE when it aborted on Wed Aug 26 18:06:02 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/root/hashicat-azure/.git/COMMIT_EDITMSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
